@@ -1,8 +1,7 @@
 # Portfolio
 
-# 👩‍💻 Karen — AI & Software Engineering Portfolio
+#  Karen Norberto — AI & Software Engineering Portfolio
 
-Welcome to my GitHub portfolio!  
 This repository gathers projects developed during my academic journey and personal studies, with a strong focus on **Artificial Intelligence, Data Engineering, Knowledge Graphs, and Back-end Development**.
 
 ---
@@ -19,7 +18,7 @@ My interests lie especially in **Generative AI, Retrieval-Augmented Generation (
 
 ## Areas of Experience
 
-### 🤖 Generative Artificial Intelligence
+### Generative Artificial Intelligence
 - Development of solutions using **Generative AI**
 - Prompt Engineering techniques
 - Retrieval-Augmented Generation (RAG)
@@ -47,7 +46,7 @@ My interests lie especially in **Generative AI, Retrieval-Augmented Generation (
 - SQL for querying, aggregation, and optimization
 - Data pipelines for AI-driven applications
 
-### 📊 Data Manipulation & Analysis
+### Data Manipulation & Analysis
 - Data cleaning, transformation, and analysis
 - Experience with:
   - `pandas`
