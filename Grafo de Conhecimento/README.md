@@ -26,7 +26,7 @@ O SmartCook resolve isso com busca semântica, permitindo que o usuário descrev
   
 **Demonstração:**
 
-![Descrição da imagem 1](image1.png)
-![Descrição da imagem 2](image2.png)
-![Descrição da imagem 3](image3.png)
-![Descrição da imagem 4](image4.png)
+![Descrição da imagem 1](images/image1.png)
+![Descrição da imagem 2](images/image2.png)
+![Descrição da imagem 3](images/image3.png)
+![Descrição da imagem 4](images/image4.png)
