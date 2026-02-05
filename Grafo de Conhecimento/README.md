@@ -24,9 +24,11 @@ O SmartCook resolve isso com busca semântica, permitindo que o usuário descrev
    - Explica o motivo da escolha  
    - Sugere variações personalizadas
   
+Python - Neo4j - PostgreSQL - Sentence TRansformers - Gemini API - RAG - SQLalchemy
+  
 **Demonstração:**
 
-![Descrição da imagem 1](images/image1.png)
-![Descrição da imagem 2](images/image2.png)
-![Descrição da imagem 3](images/image3.png)
-![Descrição da imagem 4](images/image4.png)
+![Descrição da imagem 1](Grafo de Conhecimento/images/image1.png)
+![Descrição da imagem 2](Grafo de Conhecimento/images/image2.png)
+![Descrição da imagem 3](Grafo de Conhecimento/images/image3.png)
+![Descrição da imagem 4](Grafo de Conhecimento/images/image4.png)
