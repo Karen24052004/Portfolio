@@ -22,4 +22,11 @@ O SmartCook resolve isso com busca semântica, permitindo que o usuário descrev
 5. **Gemini (LLM)**  
    - Recomenda a melhor receita para os ingredientes do usuário  
    - Explica o motivo da escolha  
-   - Sugere variações personalizadas  
+   - Sugere variações personalizadas
+  
+**Demonstração:**
+
+![Descrição da imagem 1](image1.png)
+![Descrição da imagem 2](image2.png)
+![Descrição da imagem 3](image3.png)
+![Descrição da imagem 4](image4.png)
